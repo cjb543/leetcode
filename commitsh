@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# Find current date
+current_date=$(date +%Y-%m-%d)
+
+# Add all changes
+git add .
+
+# Commit all changes
+git commit -m "$current_date"
+
+# Push all changes
+git push
