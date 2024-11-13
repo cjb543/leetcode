@@ -17,7 +17,6 @@ Line 9
 Line 10
 
 Your script should output the tenth line, which is:
-
 Line 10
 
 Note:
