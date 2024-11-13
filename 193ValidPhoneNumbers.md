@@ -16,7 +16,7 @@ Assume that file.txt has the following content: \
 Your script should output the following valid phone numbers: \
 \
 987-123-4567 \
-(123) 456-7890 \
+(123) 456-7890
 
 # Solution
 
